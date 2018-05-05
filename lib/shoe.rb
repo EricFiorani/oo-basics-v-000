@@ -9,7 +9,7 @@ class Shoe
   def cobble
     puts "Your shoe is as good as new!"
   end
-  shoe.cobble = shoe.codition("new")
 end
 
 Shoe.new("Adidas")
+shoe.cobble = shoe.codition("new")
