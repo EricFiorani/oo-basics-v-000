@@ -12,4 +12,4 @@ class Shoe
 end
 
 Shoe.new("Adidas")
-shoe.cobble = shoe.codition("new")
+
